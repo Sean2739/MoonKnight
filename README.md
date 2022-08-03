@@ -17,7 +17,7 @@ Some of the best features of this pack include:
 
 AND SO MUCH MORE! **DOWNLOAD NOW!!!**
 
-Some textures were not made by me, credits for everything can be found in the "Credits.Txt" file
+(Some textures were not made by me, credits for everything can be found in the "Credits.Txt" file.)
 
 -Sean
 

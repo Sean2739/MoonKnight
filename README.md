@@ -1,6 +1,6 @@
 # MoonKnight
 **The Best Black & White Hypixel Bridge Overlay**
- - This Pack is a reimagining of Cesmic's Infamous Bridge Overlay (https://www.youtube.com/watch?v=8yBlj2B6oBk) Make sure to go check thatt out!
+ - This Pack is a reimagining of Cesmic's Infamous Black & White Bridge Overlay (bit.ly/Cesmic) Make sure to go check that out!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Some of the best features of this pack include:
 

@@ -1,7 +1,6 @@
 
 MOONKNIGHT CREDITS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Moonknight Features - 
 * Crescent Moon Golden Apple
 * Custom Tools & Animated Bow
@@ -15,9 +14,6 @@ Other Creator Additions -
 * Glass: https://xaphex.github.io/
 * Wool: Defone wool overlay w/ CTM
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 This is an edit of Cesmic's Black N White Bridge Overlay. Credit to him for the black & white armor models aswell as the block textures featured in this pack.
 - (https://www.youtube.com/watch?v=8yBlj2B6oBk)
-
-If I failed to credit you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu
 

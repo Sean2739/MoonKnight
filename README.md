@@ -10,11 +10,6 @@ Some of the best features of this pack include:
 ![image](https://user-images.githubusercontent.com/93109251/182726916-1224126e-85c9-482e-b051-bdaa8bf15350.png)
 **Grayscale Panorama:** 
 ![image](https://user-images.githubusercontent.com/93109251/182727314-71ecf380-491a-407c-9929-2af4c1f8e488.png)
-**Custom Tools:**
-
-![Screenshot 2022-08-03 180338](https://user-images.githubusercontent.com/93109251/182727624-a4944097-2262-454e-8582-44d076e3e11f.png)
-
-**Custom UI/Icons:**
-
-![Screenshot 2022-08-03 180356](https://user-images.githubusercontent.com/93109251/182727720-6fddf679-fe8f-403c-84d0-753275a54328.png)
+**Custom Tools/UI:**
+![2022-08-03_18 02 09](https://user-images.githubusercontent.com/93109251/182727909-6ea6e7f5-1443-4118-aa82-d1e1ac021a2a.png)
 

@@ -15,6 +15,8 @@ Some of the best features of this pack include:
 **Grayscale Panorama:** 
 ![image](https://user-images.githubusercontent.com/93109251/182727314-71ecf380-491a-407c-9929-2af4c1f8e488.png)
 
+AND SO MUCH MORE! DOWNLOAD NOW!!!
+
 Some textures were not made by me, credits for everything can be found in the "Credits.Txt" file
 
 -Sean

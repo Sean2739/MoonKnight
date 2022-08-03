@@ -1,16 +1,16 @@
-Base overlay: Cesmic
 
-Credit to ApplePies#7974 for the cit to Black and White leather 
-Credit to Samuri 16x, Midnight 16x for Icons/UI
-Credit to Yuruze for night sky
-Credit to @packMEKer for Font
-Credit to xaphex for glass
-Credit to No Mercy 16x for Wool
+This is an edit of Cesmic's Black N White Bridge Overlay. Credit to him for the black & white armor models aswell as the block textures featured in this pack.
+- (https://www.youtube.com/watch?v=8yBlj2B6oBk)
 
-What I did:
-* Golden Apple -) Moon
-* Tools/Animated Bow
-* Containers/inventory
-* Black Particles
-* Corrected Height Overlay (properties)
-* Grayscale Panorama (Originally from Fishfault)
+Moonknight Features - 
+* Crescent Moon Golden Apple
+* Custom Tools & Animated Bow
+* Custom Containers/inventory
+* Recolored Particles
+* Grayscale Panorama 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Other Creator Additions -
+* Icons/UI: Midnight 16x 
+* Sky: Yuruze
+* Glass: https://xaphex.github.io/
+* Wool: Defone wool overlay w/ CTM
